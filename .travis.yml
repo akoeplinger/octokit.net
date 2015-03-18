@@ -1,3 +1,4 @@
 language: csharp
 sudo: false
 solution: Octokit.sln
+mono: latest
